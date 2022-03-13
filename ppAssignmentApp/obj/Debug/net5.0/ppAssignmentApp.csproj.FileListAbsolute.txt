@@ -1,0 +1,16 @@
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.exe
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.deps.json
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.runtimeconfig.json
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.runtimeconfig.dev.json
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.dll
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ref\ppAssignmentApp.dll
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\bin\Debug\net5.0\ppAssignmentApp.pdb
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.csproj.AssemblyReference.cache
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.AssemblyInfoInputs.cache
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.AssemblyInfo.cs
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.dll
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ref\ppAssignmentApp.dll
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.pdb
+C:\Users\dpank\Documents\GitHub\ppAssignmentApp\ppAssignmentApp\obj\Debug\net5.0\ppAssignmentApp.genruntimeconfig.cache
