@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\ppAssignmentApp\\ppAssignmentApp\\ppAssignmentApp.csproj": {}
+    "C:\\Users\\dpank\\Documents\\GitHub\\ParallelProgramming_Assignment\\ppAssignmentApp\\ppAssignmentApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dpank\\Documents\\GitHub\\ppAssignmentApp\\ppAssignmentApp\\ppAssignmentApp.csproj": {
+    "C:\\Users\\dpank\\Documents\\GitHub\\ParallelProgramming_Assignment\\ppAssignmentApp\\ppAssignmentApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\ppAssignmentApp\\ppAssignmentApp\\ppAssignmentApp.csproj",
+        "projectUniqueName": "C:\\Users\\dpank\\Documents\\GitHub\\ParallelProgramming_Assignment\\ppAssignmentApp\\ppAssignmentApp.csproj",
         "projectName": "ppAssignmentApp",
-        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\ppAssignmentApp\\ppAssignmentApp\\ppAssignmentApp.csproj",
+        "projectPath": "C:\\Users\\dpank\\Documents\\GitHub\\ParallelProgramming_Assignment\\ppAssignmentApp\\ppAssignmentApp.csproj",
         "packagesPath": "C:\\Users\\dpank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\ppAssignmentApp\\ppAssignmentApp\\obj\\",
+        "outputPath": "C:\\Users\\dpank\\Documents\\GitHub\\ParallelProgramming_Assignment\\ppAssignmentApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
