@@ -69,6 +69,7 @@ namespace ppAssignmentApp
                     var localPrimeList = new List<long>();
                     for (long i = range.Item1; i < range.Item2; i++)
                     {
+                        if (IsPrime(i))
                             localPrimeList.Add(i);
                     }
                     lock (lockObject)
